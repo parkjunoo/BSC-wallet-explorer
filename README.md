@@ -32,21 +32,10 @@
 
 듀얼 체인 구조를 사용하여 사용자는 바이낸스 블록체인 간에 자유롭게 자산을 전송할 수 있습니다. 바이낸스 체인상의 빠른 트레이딩 기능을 사용하는 동시에, 바이낸스 스마트 체인상에 강력 탈중앙 앱을 구축할 수 있습니다. 바이낸스 체인의 BEP-2와 BEP-8 토큰은 바이낸스 스마트 체인에서 도입된 새로운 표준인 BEP-20 토큰으로 스왑할 수 있습니다. 
 
-익스플로러
-
-![explorer.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94c4a625-9c0b-45b9-a218-9b97fa22ebc4/explorer.gif)
-
-회원가입하기
-
-![May-13-2022 18-48-01.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c533034c-b6fc-4156-a048-5ae72810939c/May-13-2022_18-48-01.gif)
-
-코인전송
-
-![bnb.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/990e7bfc-014c-4bf7-91c6-d5752f31e9c5/bnb.gif)
-
-코인 거래기록
-
-![May-13-2022 19-gggg.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b017fe82-9804-4508-acbe-e3d8d6f27047/May-13-2022_19-gggg.gif)
+![지갑전환](https://user-images.githubusercontent.com/68583697/168278366-4739dbb3-10b5-4928-96d5-d08e3abd9b8e.gif)
+![bnb](https://user-images.githubusercontent.com/68583697/168278423-65803060-5c7f-49d8-96c3-eeafa104750b.gif)
+![May-13-2022 18-48-01](https://user-images.githubusercontent.com/68583697/168278489-aee1ca0c-ebde-4789-acfa-0143eb75fb18.gif)
+![May-13-2022 19-gggg](https://user-images.githubusercontent.com/68583697/168278507-3d55f099-dc01-4633-9d1d-f613019bb210.gif)
 
 # 2. 프로젝트 소개
 
