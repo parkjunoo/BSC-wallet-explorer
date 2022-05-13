@@ -12,12 +12,6 @@
 
 ## 프로젝트 기간 5/9 ~ 5/13
 
-## 깃 레포
-
----
-
-[https://github.com/codestates/BTC2nd-06](https://github.com/codestates/BTC2nd-06)
-
 # 1. 선정 코인 소개
 
 ## 개요
