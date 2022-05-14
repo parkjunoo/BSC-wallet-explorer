@@ -2,7 +2,6 @@
 ---
 
 - 팀명 : 제네시스 BNB
-- Github Repository : [https://github.com/codestates/BTC2nd-06](https://github.com/codestates/BTC2nd-06)
 - 팀원 :
     - 안재윤
     - 박준수
