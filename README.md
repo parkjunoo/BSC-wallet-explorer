@@ -27,6 +27,8 @@
 
 듀얼 체인 구조를 사용하여 사용자는 바이낸스 블록체인 간에 자유롭게 자산을 전송할 수 있습니다. 바이낸스 체인상의 빠른 트레이딩 기능을 사용하는 동시에, 바이낸스 스마트 체인상에 강력 탈중앙 앱을 구축할 수 있습니다. 바이낸스 체인의 BEP-2와 BEP-8 토큰은 바이낸스 스마트 체인에서 도입된 새로운 표준인 BEP-20 토큰으로 스왑할 수 있습니다. 
 
+
+
 ![May-13-2022 18-48-01](https://user-images.githubusercontent.com/68583697/168278489-aee1ca0c-ebde-4789-acfa-0143eb75fb18.gif)
 ![지갑전환](https://user-images.githubusercontent.com/68583697/168278366-4739dbb3-10b5-4928-96d5-d08e3abd9b8e.gif)
 ![bnb](https://user-images.githubusercontent.com/68583697/168278423-65803060-5c7f-49d8-96c3-eeafa104750b.gif)
